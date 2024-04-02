@@ -1,4 +1,4 @@
-# ProfileHub Steps to run the program
+# LMS Steps to run the program
 
 LMS (Library Management System)
 ==================================

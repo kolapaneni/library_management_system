@@ -1,13 +1,13 @@
 # ProfileHub Steps to run the program
 
-ProfileHub
+LMS (Library Management System)
 ==================================
 
 This is the codebase for the ProfileHub. Every topic can be followed as a step by step process.
 
 ## Clone Project
 
-    git clone https://github.com/kolapaneni/ProfileHub.git
+    git clone https://github.com/kolapaneni/library_management_system.git
 
 **Installation**
 
